@@ -1,6 +1,6 @@
 creating a new file
 
-file name dev.txt
+file name dev.txt want merge conflict
 
 In branch dev
 
