@@ -11,3 +11,5 @@ git can track code readability
 git can use github tool
 
 git manage project repo
+
+git is used to clone projects
