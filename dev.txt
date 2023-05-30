@@ -3,4 +3,12 @@ creating a new file
 file name dev.txt
 
 In branch dev
+
 changed made using main branch
+
+new changes created
+
+git can track code readability
+
+git can use github tool
+
