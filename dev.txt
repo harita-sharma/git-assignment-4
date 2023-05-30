@@ -12,8 +12,6 @@ git can track code readability
 
 git can use github tool
 
-
-
 git manage project repo
 
 git is used to clone projects
@@ -21,3 +19,6 @@ git is used to clone projects
 git control changes with staging
 
 git commands
+
+git is version ontrol system
+
