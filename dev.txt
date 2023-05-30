@@ -12,11 +12,12 @@ git can track code readability
 
 git can use github tool
 
-<<<<<<< HEAD
-=======
+
+
 git manage project repo
 
 git is used to clone projects
 
 git control changes with staging
->>>>>>> dev
+
+git commands
