@@ -4,6 +4,7 @@ file name dev.txt
 
 In branch dev
 
+
 new changes created
 
 git can track code readability
@@ -15,3 +16,5 @@ git manage project repo
 git is used to clone projects
 
 git control changes with staging
+
+git is version ontrol system
