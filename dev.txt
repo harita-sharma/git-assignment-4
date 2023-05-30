@@ -7,3 +7,5 @@ In branch dev
 new changes created
 
 git can track code readability
+
+git can use github tool
